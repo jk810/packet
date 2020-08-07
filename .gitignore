@@ -1,0 +1,11 @@
+# stash, pull, stash apply ; add, commit, push
+# add, commit, pull, push
+# git config --global http.proxy http://31434:wed@proxy-west.aero.org:8080
+
+# Ignoring contents of results folder
+.idea/
+__pycache__/
+test_code/
+venv/
+results/
+dial_results/**/*.txt
